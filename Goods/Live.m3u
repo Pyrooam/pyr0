@@ -7,14 +7,16 @@ http://new-pro.tv:8080/Fernando/123321/179624?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/70387?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="NickelodeonUSEast.us" tvg-name="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nickelodeon-us.png" group-title="USA",Nickelodeon HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130920?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US.CH - CARTOON NETWORK" tvg-logo="https://i.postimg.cc/MGyyjhQg/CARTOON-NETWORK-logo.png" group-title="USA",US.CH - CARTOON NETWORK
-http://tv.fullytv.com:8080/vladi1/vladi1/29145?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/boomerang-us.png" group-title="USA",Boomerang
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282865?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WFUT-DT1 (Unimas Nueva York)" tvg-logo="https://i.postimg.cc/cHx8t6Z8/WFUT-DT-2013.png" group-title="USA",WFUT-DT1 (Unimas Nueva York)
 https://v-ny.theus6tv.tk/hls/68.1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES - BEINS SPORTS ESPAÑA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/beinsports/horizontal/bein-sports-espanol-hz-int.png" group-title="Sport",ES - BEINS SPORTS ESPAÑA
-http://tv.fullytv.com:8080/vladi1/vladi1/3118?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network HD" tvg-logo="" group-title="USA",Cartoon Network HD
+http://new-pro.tv:8080/Fernando/123321/90106?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network SD" tvg-logo="" group-title="USA",Cartoon Network SD
+http://thetvvalet.com:8080/simon/simon/12844?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA-Cartoon Network (M)(1080)" tvg-logo="" group-title="USA",USA-Cartoon Network (M)(1080)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/35789?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN HD" tvg-logo="https://bit.ly/3jhkPWC" group-title="HON",TEN HD
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sercano TV" tvg-logo="https://bit.ly/3r8IJs0" group-title="HON",Sercano TV
