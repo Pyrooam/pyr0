@@ -1,21 +1,21 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-name="Univision New York" tvg-logo="https://i.postimg.cc/Pr9ZVtbB/Univision-41-ny.png" group-title="USA",Univision New York
+#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-name="Univision New York" tvg-logo="https://i.postimg.cc/Pr9ZVtbB/Univision-41-ny.png" group-title="USA2",Univision New York
 http://new-pro.tv:8080/Fernando/123321/179637?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-name="Telemundo New York" tvg-logo="https://i.postimg.cc/dtLr97C2/Telemundo-47-2018.png" group-title="USA",Telemundo New York
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-name="Telemundo New York" tvg-logo="https://i.postimg.cc/dtLr97C2/Telemundo-47-2018.png" group-title="USA2",Telemundo New York
 http://new-pro.tv:8080/Fernando/123321/179624?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="NicktoonsUSEast.us" tvg-name="NickToons HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nick-toons-us.png" group-title="USA",NickToons HD
+#EXTINF:-1 tvg-id="NicktoonsUSEast.us" tvg-name="NickToons HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nick-toons-us.png" group-title="USA2",NickToons HD
 http://new-pro.tv:8080/Fernando/123321/70387?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="NickelodeonUSEast.us" tvg-name="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nickelodeon-us.png" group-title="USA",Nickelodeon HD
+#EXTINF:-1 tvg-id="NickelodeonUSEast.us" tvg-name="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nickelodeon-us.png" group-title="USA2",Nickelodeon HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130920?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/boomerang-us.png" group-title="USA",Boomerang
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/boomerang-us.png" group-title="USA2",Boomerang
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282865?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WFUT-DT1 (Unimas Nueva York)" tvg-logo="https://i.postimg.cc/cHx8t6Z8/WFUT-DT-2013.png" group-title="USA",WFUT-DT1 (Unimas Nueva York)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WFUT-DT1 (Unimas Nueva York)" tvg-logo="https://i.postimg.cc/cHx8t6Z8/WFUT-DT-2013.png" group-title="USA2",WFUT-DT1 (Unimas Nueva York)
 https://v-ny.theus6tv.tk/hls/68.1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network HD" tvg-logo="" group-title="USA",Cartoon Network HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network HD" tvg-logo="" group-title="USA2",Cartoon Network HD
 http://new-pro.tv:8080/Fernando/123321/90106?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network SD" tvg-logo="" group-title="USA",Cartoon Network SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network SD" tvg-logo="" group-title="USA2",Cartoon Network SD
 http://thetvvalet.com:8080/simon/simon/12844?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA-Cartoon Network (M)(1080)" tvg-logo="" group-title="USA",USA-Cartoon Network (M)(1080)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA-Cartoon Network (M)(1080)" tvg-logo="" group-title="USA2",USA-Cartoon Network (M)(1080)
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/35789?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN HD" tvg-logo="https://bit.ly/3jhkPWC" group-title="HON",TEN HD
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist.m3u8
@@ -28,9 +28,9 @@ https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/chunklist_w1652656497.m3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6" tvg-logo="https://bit.ly/3NSlbRX" group-title="HON",Canal 6
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5ba026492cdc1a7124d02fb7/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5ElLider.hn" tvg-name="Canal 5" tvg-logo="https://bit.ly/3Jn0lXj" group-title="HON",Canal 5
-https://stream-02.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRJzpfpAz4rv3C-37XjehXrtvx2qDrBVcZEAznXGTXSao)/dm/3/x88jd1d/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRA5eFD_rIHmVHxKkCYUfqIBhudlYi5h4OYKcymkrz5cI)/dm/3/x88jd1d/s/live-3.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-name="TSI" tvg-logo="https://bit.ly/3LMsYPa" group-title="HON",TSI
-https://stream-04.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVROfw6BcMvslaJSwQnd8HFJf_o0Br4GPRumhZxELVpiBn)/dm/3/x88jdft/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRBMLnB398ZXwWN8Aoo0JaS3CBGKlJzBp7USfA1-DT7q4)/dm/3/x88jdft/s/live-3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telerayo" tvg-logo="" group-title="HON",Telerayo
 https://emisoras.hn:8081/telerayo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sur Canal 14" tvg-logo="" group-title="HON",Sur Canal 14
@@ -81,15 +81,15 @@ https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teleceiba" tvg-logo="https://bit.ly/37oLVsl" group-title="HON",Teleceiba
 http://190.11.224.14:8134/liveevent.m3u8
-#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-name="Univision" tvg-logo="https://bit.ly/3OvBaWe" group-title="USA2",Univision
+#EXTINF:-1 tvg-id="WXTVDT1.us" tvg-name="Univision" tvg-logo="https://bit.ly/3OvBaWe" group-title="USA",Univision
 https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-name="Telemundo" tvg-logo="https://bit.ly/3LfMEuV" group-title="USA2",Telemundo
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-name="Telemundo" tvg-logo="https://bit.ly/3LfMEuV" group-title="USA",Telemundo
 https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WFUTDT1.us" tvg-name="Unimas" tvg-logo="https://bit.ly/3OsJTIR" group-title="USA2",Unimas
+#EXTINF:-1 tvg-id="WFUTDT1.us" tvg-name="Unimas" tvg-logo="https://bit.ly/3OsJTIR" group-title="USA",Unimas
 https://v-ny.theus6tv.tk/hls/68.1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telesur" tvg-logo="https://bit.ly/3MqCnfv" group-title="USA2",Telesur
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telesur" tvg-logo="https://bit.ly/3MqCnfv" group-title="USA",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Cartoon Network East" tvg-logo="" group-title="USA2",Cartoon Network East
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Cartoon Network East" tvg-logo="" group-title="USA",Cartoon Network East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Adult Swim East" tvg-logo="" group-title="USA2",Adult Swim East
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Adult Swim East" tvg-logo="" group-title="USA",Adult Swim East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_3_1928000.m3u8
