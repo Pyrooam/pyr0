@@ -11,6 +11,10 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Adult Swim East" tvg-logo="" group-title="USA",Adult Swim East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_3_1928000.m3u8
+#EXTINF:-1 tvg-id="Canal5ElLider.hn" tvg-name="Canal 5" tvg-logo="https://bit.ly/3Jn0lXj" group-title="HON",Canal 5
+https://stream-01.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRLnQJ9weMKjR9O1eOob8B2WBKVzgzX4ZQKeq5f1vvOHh)/dm/3/x88jd1d/s/live-3.m3u8
+#EXTINF:-1 tvg-id="TSi.hn" tvg-name="TSI" tvg-logo="https://bit.ly/3LMsYPa" group-title="HON",TSI
+https://stream-02.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRJWPo-gjqlh_hOBpbfWQOdauRUb-81xg3kSbjiqtrAyp)/dm/3/x88jdft/s/live-3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN HD" tvg-logo="https://bit.ly/3jhkPWC" group-title="HON",TEN HD
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sercano TV" tvg-logo="https://bit.ly/3r8IJs0" group-title="HON",Sercano TV
@@ -21,10 +25,6 @@ http://st2.worldkast.com/8004/8004/chunklist_w733100229.m3u8
 https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/chunklist_w1652656497.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6" tvg-logo="https://bit.ly/3NSlbRX" group-title="HON",Canal 6
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5ba026492cdc1a7124d02fb7/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5ElLider.hn" tvg-name="Canal 5" tvg-logo="https://bit.ly/3Jn0lXj" group-title="HON",Canal 5
-https://stream-02.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRPN5MNrLY2k6suGC6CjI717r8rbxeRlwX802SOwYlBzm)/dm/3/x88jd1d/s/live-3.m3u8
-#EXTINF:-1 tvg-id="TSi.hn" tvg-name="TSI" tvg-logo="https://bit.ly/3LMsYPa" group-title="HON",TSI
-https://stream-04.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRKyq5oMujAP8GTXCxNr7SPA3mQOjxab_cqGzLMWd_mfs)/dm/3/x88jdft/s/live-3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telerayo" tvg-logo="" group-title="HON",Telerayo
 https://emisoras.hn:8081/telerayo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sur Canal 14" tvg-logo="" group-title="HON",Sur Canal 14
@@ -53,18 +53,8 @@ https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 https://emisoras.hn:8081/dtp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HCH.hn" tvg-name="HCH TV" tvg-logo="" group-title="HON",HCH TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x81za5c
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemas" tvg-logo="" group-title="HON",Telemas
-https://www.amixtv.com:8081/telemas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 51" tvg-logo="" group-title="HON",Canal 51
-https://cn51.live/hls/streamcn51.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Uno Choluteca" tvg-logo="" group-title="HON",Canal Uno Choluteca
-https://tvdatta.com:3392/live/portaldelsurhnlive.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ebenezer Tv" tvg-logo="" group-title="HON",Ebenezer Tv
-https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dios Te Ve" tvg-logo="" group-title="HON",Dios Te Ve
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="VTV.hn" tvg-name="VTV" tvg-logo="" group-title="HON",VTV
-https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUxNTEyNTA2LCJzZXNzaW9uIjoiNjguMTk1LjE2MS4zOCIsIndoaXRlbGlzdCI6WyI2OC4xOTUuMTYxLjM4Il19LCJzaWduYXR1cmUiOiIxNGIzMjcxNDVjYTYyYzY5ZTczNWY1ODIxNTI3NTZhYzdhNGRiZGQ3In0=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHTV" tvg-logo="" group-title="HON",CHTV
 https://media.streambrothers.com:1936/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Guayape TV" tvg-logo="" group-title="HON",Guayape TV
@@ -91,3 +81,19 @@ http://mains.services:2086/kixy2030/u8zC9nvB69/96749?checkedby:iptvcat.com
 http://mains.services:2086/kixy2030/u8zC9nvB69/96711?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO (WNJU) 47 NEW YORK" tvg-logo="" group-title="CAT",TELEMUNDO (WNJU) 47 NEW YORK
 http://mains.services:2086/kixy2030/u8zC9nvB69/100157?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC UNIVERSO" tvg-logo="" group-title="CAT",NBC UNIVERSO
+http://mains.services:2086/kixy2030/u8zC9nvB69/66685?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVERSO" tvg-logo="" group-title="CAT",UNIVERSO
+http://mains.services:2086/kixy2030/u8zC9nvB69/66603?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN" tvg-logo="" group-title="CAT",TUDN
+http://mains.services:2086/kixy2030/u8zC9nvB69/66593?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX DEPORTES" tvg-logo="" group-title="CAT",FOX DEPORTES
+http://mains.services:2086/kixy2030/u8zC9nvB69/92587?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION DEPORTES" tvg-logo="" group-title="CAT",UNIVISION DEPORTES
+http://mains.services:2086/kixy2030/u8zC9nvB69/21595?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA TV BAR 1" tvg-logo="" group-title="CAT",LA LIGA TV BAR 1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIHRNqQhaswChh4ggcRz_z4/ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA BAR FHD" tvg-logo="" group-title="CAT",LA LIGA BAR FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/220934?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA BAR HD" tvg-logo="" group-title="CAT",LA LIGA BAR HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/220975?checkedby:iptvcat.com
