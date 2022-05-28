@@ -12,9 +12,9 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_
 #EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Adult Swim East" tvg-logo="" group-title="USA",Adult Swim East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_3_1928000.m3u8
 #EXTINF:-1 tvg-id="Canal5ElLider.hn" tvg-name="Canal 5" tvg-logo="https://bit.ly/3Jn0lXj" group-title="HON",Canal 5
-https://stream-04.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRDQjRW_ZFN2xYAKfozxKKIgzTXL6Zv7A1AY_lJSwWw_t)/dm/3/x88jd1d/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRANK3HlMpt0bG4PsrCIQWwtMgUxJOgRgDp8oTBsYLL_H)/dm/3/x88jd1d/s/live-3.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-name="TSI" tvg-logo="https://bit.ly/3LMsYPa" group-title="HON",TSI
-https://stream-01.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRG8k5VXFRIUEAftrPGX84q8MjnYWbzSki4_2Snif-cKh)/dm/3/x88jdft/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRF8rF9Ds3dd1tzZ8OlgrmCXZkZJnOStUgZ9tU24X5H8Z)/dm/3/x88jdft/s/live-3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN HD" tvg-logo="https://bit.ly/3jhkPWC" group-title="HON",TEN HD
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sercano TV" tvg-logo="https://bit.ly/3r8IJs0" group-title="HON",Sercano TV
