@@ -1,10 +1,10 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="WXTVDT1.us" tvg-name="Univision" tvg-logo="https://bit.ly/3OvBaWe" group-title="USA",Univision
-https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
+http://v-ny.theus6tv.duckdns.org/hls/41.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WNJUDT1.us" tvg-name="Telemundo" tvg-logo="https://bit.ly/3LfMEuV" group-title="USA",Telemundo
-https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
+http://v-ny.theus6tv.duckdns.org/hls/47.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WFUTDT1.us" tvg-name="Unimas" tvg-logo="https://bit.ly/3OsJTIR" group-title="USA",Unimas
-https://v-ny.theus6tv.tk/hls/68.1/playlist.m3u8
+http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telesur" tvg-logo="https://bit.ly/3MqCnfv" group-title="USA",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Cartoon Network East" tvg-logo="" group-title="USA",Cartoon Network East
@@ -12,9 +12,9 @@ https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_
 #EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-name="Adult Swim East" tvg-logo="" group-title="USA",Adult Swim East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_3_1928000.m3u8
 #EXTINF:-1 tvg-id="Canal5ElLider.hn" tvg-name="Canal 5" tvg-logo="https://bit.ly/3Jn0lXj" group-title="HON",Canal 5
-https://stream-02.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRANK3HlMpt0bG4PsrCIQWwtMgUxJOgRgDp8oTBsYLL_H)/dm/3/x88jd1d/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRERbcq-Giuu58W3-2KZ6BjBBlCOUgEmC8sLduX2aE1ya)/dm/3/x88jd1d/s/live-3.m3u8
 #EXTINF:-1 tvg-id="TSi.hn" tvg-name="TSI" tvg-logo="https://bit.ly/3LMsYPa" group-title="HON",TSI
-https://stream-04.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRF8rF9Ds3dd1tzZ8OlgrmCXZkZJnOStUgZ9tU24X5H8Z)/dm/3/x88jdft/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRH0Zl9YyJiK5gwAr4oKtdVxALbRfGRkh7lmh4cGIPLUq)/dm/3/x88jdft/s/live-3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN HD" tvg-logo="https://bit.ly/3jhkPWC" group-title="HON",TEN HD
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sercano TV" tvg-logo="https://bit.ly/3r8IJs0" group-title="HON",Sercano TV
@@ -36,7 +36,7 @@ https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suyapa TV" tvg-logo="" group-title="HON",Suyapa TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x833e2b
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TodoDeportes" tvg-logo="" group-title="HON",TodoDeportes
-https://5f1af61612fb5.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIyIDI6MDE6NTUgUE0maGFzaF92YWx1ZT1nbDV1WVBWQ0tpdUw5LzNjOU9uYlRnPT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://conceptoweb-studio.com/radio/video/tododeportesplus/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Estrella" tvg-logo="" group-title="HON",TV Estrella
 https://emisoras.hn:8081/tvestrella/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thundersports" tvg-logo="" group-title="HON",Thundersports
@@ -65,35 +65,3 @@ https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teleceiba" tvg-logo="https://bit.ly/37oLVsl" group-title="HON",Teleceiba
 http://190.11.224.14:8134/liveevent.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA-Cartoon Network (M)(1080" tvg-logo="" group-title="CAT",USA-Cartoon Network (M)(1080
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/35789?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network SD" tvg-logo="" group-title="CAT",Cartoon Network SD
-http://thetvvalet.com:8080/simon/simon/12844?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network HD" tvg-logo="" group-title="CAT",Cartoon Network HD
-http://new-pro.tv:8080/Fernando/123321/90106?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang" tvg-logo="" group-title="CAT",Boomerang
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282865?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon HD" tvg-logo="" group-title="CAT",Nickelodeon HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130920?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION (WXTV) PATERSON NEW JERSEY" tvg-logo="" group-title="CAT",UNIVISION (WXTV) PATERSON NEW JERSEY
-http://mains.services:2086/kixy2030/u8zC9nvB69/96749?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO (WNJU) LINDEN NEW JERSEY" tvg-logo="" group-title="CAT",TELEMUNDO (WNJU) LINDEN NEW JERSEY
-http://mains.services:2086/kixy2030/u8zC9nvB69/96711?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELEMUNDO (WNJU) 47 NEW YORK" tvg-logo="" group-title="CAT",TELEMUNDO (WNJU) 47 NEW YORK
-http://mains.services:2086/kixy2030/u8zC9nvB69/100157?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC UNIVERSO" tvg-logo="" group-title="CAT",NBC UNIVERSO
-http://mains.services:2086/kixy2030/u8zC9nvB69/66685?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVERSO" tvg-logo="" group-title="CAT",UNIVERSO
-http://mains.services:2086/kixy2030/u8zC9nvB69/66603?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TUDN" tvg-logo="" group-title="CAT",TUDN
-http://mains.services:2086/kixy2030/u8zC9nvB69/66593?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX DEPORTES" tvg-logo="" group-title="CAT",FOX DEPORTES
-http://mains.services:2086/kixy2030/u8zC9nvB69/92587?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNIVISION DEPORTES" tvg-logo="" group-title="CAT",UNIVISION DEPORTES
-http://mains.services:2086/kixy2030/u8zC9nvB69/21595?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA TV BAR 1" tvg-logo="" group-title="CAT",LA LIGA TV BAR 1
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIHRNqQhaswChh4ggcRz_z4/ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA BAR FHD" tvg-logo="" group-title="CAT",LA LIGA BAR FHD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/220934?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA BAR HD" tvg-logo="" group-title="CAT",LA LIGA BAR HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/220975?checkedby:iptvcat.com
